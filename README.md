@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Cristhian</h1>
+<h1 align="center">Hey, I'm Cristhian 👋</h1>
 <h3 align="center">A data scientist from Colombia</h3>
 
-- 🌱 I’m currently learning **neural networks**
+- 🏫 I’m chemical engineer [from Universidad del Valle in Colombia](https://www.univalle.edu.co/)
 
-- 👯 I’m looking to collaborate on **any project involvin machine learning**
+- 💻 I changed my career path to **data processing and analysis**
+
+- 🌱 I’m currently developing **personal machine learning projects**
+
+- 👯 I’m open to collaborate on **any project involving data mining**
 
 - 👨‍💻 All of my projects are available at [test.com](test.com)
 
