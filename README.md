@@ -1,19 +1,19 @@
 <h1 align="center">Hey, I'm Cristhian 👋</h1>
-<h3 align="center">A data scientist from Colombia</h3>
+<h3 align="center">A data enthusiast from Colombia</h3>
 
-- 🏫 I’m chemical engineer [from Universidad del Valle in Colombia](https://www.univalle.edu.co/)
+- 🏫 I’m chemical engineer from  [University of Valle](https://www.univalle.edu.co/)
 
-- 💻 I changed my career path to **data processing and analysis**
+- 💻 I changed my career path to **data science, engineering and analysis**
 
 - 🌱 I’m currently developing **personal machine learning projects**
 
-- 👯 I’m open to collaborate on **any project involving data mining**
+- 👯 I’m open to work and collaborate on **jobs and projects involving data mining**
 
 - 👨‍💻 All of my projects are available at [test.com](test.com)
 
-- 📫 How to reach me **cristhiancastro001@gmail.com**
+- 📫 Reach me at **cristhiancastro001@gmail.com** or [LinkedIn](https://www.linkedin.com/in/cristhiancastro/)
 
-- 📄 Know about my experiences [resume link](resume link)
+- 📄 Read more about me in my [resume](/"Cristhian Castro CV-En.pdf")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
