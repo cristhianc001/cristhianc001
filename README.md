@@ -13,7 +13,7 @@
 
 - 📫 Reach me at **cristhiancastro001@gmail.com** or [LinkedIn](https://www.linkedin.com/in/cristhiancastro/)
 
-- 📄 Read more about me in my resume ( [english](https://drive.google.com/file/d/1ly9aAWyW-JXZdv0O-nTkij6uXUaGgnRU/view?usp=drive_link) | [spanish](https://drive.google.com/file/d/1RZeqSvgVJQrRDJUwXxdg5RW7VdziIzCI/view?usp=drive_link) )
+- 📄 Read more about me in my resume (<a href="https://drive.google.com/file/d/1ly9aAWyW-JXZdv0O-nTkij6uXUaGgnRU/view?usp=drive_link" target="_blank">english</a> | <a href="https://drive.google.com/file/d/1RZeqSvgVJQrRDJUwXxdg5RW7VdziIzCI/view?usp=drive_link" target="_blank">spanish</a>)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
